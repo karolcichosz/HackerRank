@@ -1,4 +1,4 @@
-package com.company;
+package com.solutions;
 
 import java.util.Scanner;
 
@@ -9,8 +9,6 @@ public class ClockChanger {
 
         String hour = s.substring(0,1);
     String minAndSec = s.substring(3,s.length()-2);
-
-    //System.out.println(time);
 
         if (s.charAt(s.length()-2) == 'A') {
         if (hour.equals("12")) {

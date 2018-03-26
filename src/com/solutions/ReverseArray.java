@@ -1,6 +1,4 @@
-package com.company;
-
-import sun.awt.util.IdentityLinkedList;
+package com.solutions;
 
 import java.util.HashMap;
 import java.util.Iterator;

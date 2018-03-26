@@ -1,6 +1,5 @@
-package com.company;
+package com.solutions;
 
-import java.io.*;
 import java.util.*;
 
 public class JavaAnagrams {
