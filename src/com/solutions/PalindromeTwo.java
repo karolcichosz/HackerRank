@@ -2,6 +2,11 @@ package com.solutions;
 
 import java.util.*;
 
+/*
+    @author
+
+    Karol Cichosz
+ */
 
 public class PalindromeTwo {
 

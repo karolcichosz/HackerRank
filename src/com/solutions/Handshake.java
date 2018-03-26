@@ -1,5 +1,12 @@
 package com.solutions;
 
+/*
+    https://www.hackerrank.com/challenges/handshake/problem
+
+    @author Karol Cichosz
+
+ */
+
 import java.util.Scanner;
 
 public class Handshake {

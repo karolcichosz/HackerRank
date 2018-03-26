@@ -2,6 +2,10 @@ package com.solutions;
 
 import java.util.*;
 
+/*
+    @author Karol Cichosz
+ */
+
 public class JavaAnagrams {
 
     static boolean isAnagram(String a, String b) {

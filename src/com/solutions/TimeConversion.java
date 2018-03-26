@@ -2,7 +2,13 @@ package com.solutions;
 
 import java.util.Scanner;
 
-public class ClockChanger {
+/*
+    https://www.hackerrank.com/challenges/time-conversion/problem
+
+    @author Karol Cichosz
+ */
+
+public class TimeConversion {
 
     static String timeConversion(String s) {
 

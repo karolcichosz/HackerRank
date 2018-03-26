@@ -5,6 +5,12 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
+/*
+    https://www.hackerrank.com/challenges/java-string-compare/problem
+
+    @author Karol Cichosz
+ */
+
 public class JavaSubstringComparisons {
 
     public static String getSmallestAndLargest(String s, int k) {

@@ -2,6 +2,12 @@ package com.solutions;
 
 import java.util.*;
 
+/*
+    @author
+
+    Karol Cichosz
+ */
+
 public class Palindrome {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
