@@ -1,8 +1,9 @@
-package com.solutions;
+package hackerrank.mathematics.solutions;
 
 /*
-    https://www.hackerrank.com/challenges/handshake/problem
+    Problem: https://www.hackerrank.com/challenges/handshake/problem
 
+    Solution:
     @author Karol Cichosz
 
  */

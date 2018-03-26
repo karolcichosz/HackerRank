@@ -1,4 +1,4 @@
-package com.solutions;
+package hackerrank.problemsolving.solutions.strings;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

@@ -1,4 +1,4 @@
-package com.solutions;
+package hackerrank.problemsolving.solutions.arrays;
 
 import java.util.HashMap;
 import java.util.Iterator;

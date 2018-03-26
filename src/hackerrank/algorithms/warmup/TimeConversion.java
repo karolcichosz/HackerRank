@@ -1,10 +1,12 @@
-package com.solutions;
+package hackerrank.algorithms.warmup;
 
 import java.util.Scanner;
 
 /*
+    Problem:
     https://www.hackerrank.com/challenges/time-conversion/problem
 
+    Solution:
     @author Karol Cichosz
  */
 

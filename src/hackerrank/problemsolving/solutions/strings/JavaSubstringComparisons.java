@@ -1,4 +1,4 @@
-package com.solutions;
+package hackerrank.problemsolving.solutions.strings;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -6,8 +6,10 @@ import java.util.List;
 import java.util.Scanner;
 
 /*
+    Problem:
     https://www.hackerrank.com/challenges/java-string-compare/problem
 
+    Solution:
     @author Karol Cichosz
  */
 
